@@ -1,0 +1,18 @@
+img {
+  width: 400px;
+  height: auto;
+}
+
+.intro {
+  font-size: 20px;
+  font-weight: 400;
+}
+
+ol,
+ul {
+  line-height: 1.7rem;
+}
+
+.ingredients {
+  color: green;
+}
